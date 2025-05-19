@@ -2,6 +2,7 @@
 
 A computer vision project to detect and decode Morse code using real-time hand gestures captured via webcam.
 
+
 ## 🎯 Objective
 To convert hand gestures (dots and dashes) into readable text by leveraging OpenCV and MediaPipe.
 
@@ -40,3 +41,8 @@ Preetham Koundinya Gajulamandyam – [LinkedIn](https://www.linkedin.com/in/pree
 
 ## 📜 License
 MIT License
+=======
+# MorseCode_OpenCV
+
+Detect Morse code using hand gestures and OpenCV.
+>>>>>>> 086de12 (Initial project setup with folder structure and boilerplate code)
